@@ -3,19 +3,20 @@
 pro.maxime.bayle@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/maxime-bayle/)
-
+---------
 ### Compétences techniques: Python, SQL, VBA, Power BI
 ***Détails:***
 - Chargement et collecte des données (pandas, requests, beautifulsoup4)
 - Nettoyage et préparation des données (Pandas, Numpy)
 - Analyse exploratoire des données (Matplotlib, Seaborn, Folium, Plotly, Dash)
 - Modélisation et analyse prédictive (scikit-learn)
-### Compétences transverses: Communication, Gestion de projet, Adaptabilité et apprentissage continu
 
+### Compétences transverses: Communication, Gestion de projet, Adaptabilité et apprentissage continu
+---------
 ## Accréditations:
 - Ingénieur Génie Industriel Insa Lyon
 - IBM Data Science Professional Certificate
-
+---------
 ## Projets:
 ### Gestion de projet transverse et automatisation de données _@Groupe Atlantique_ (_Avr. 2023 - Août. 2023_)
 - *Gestion de projet*: Formalisation des processus, identifications des limites, collecte des attentes des parties prenantes, suivi et conduite de projet jusqu'à son achèvement
