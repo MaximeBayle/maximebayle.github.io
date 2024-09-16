@@ -9,3 +9,5 @@ Data scientist @Toyota
 - Big impact project 2
 
 ### Projects
+- Project 1
+- Project 2
