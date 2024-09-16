@@ -8,7 +8,7 @@ Ainsi, je suis actuellement à la recherche d'opportunités pour mettre en œuvr
 
 ---------
 
-**Contact:** pro.maxime.bayle@gmail.com | [LinkedIn](https://www.linkedin.com/in/maxime-bayle/)
+**Contact:** | pro.maxime.bayle@gmail.com | [LinkedIn](https://www.linkedin.com/in/maxime-bayle/)
 
 ---------
 
