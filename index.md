@@ -5,6 +5,8 @@
 **Contact**: 
 pro.maxime.bayle@gmail.com | [LinkedIn](https://www.linkedin.com/in/maxime-bayle/)
 
+---------
+
 Je suis convaincu que la maîtrise des données est un atout clé pour améliorer la prise de décision et générer de la valeur pour les entreprises. À travers mes projets académiques et mes formations supplémentaires, j’ai approfondi ma connaissance des outils d’analyse et de visualisation de données.
 
 Ainsi, je suis actuellement à la recherche d'opportunités pour mettre en œuvre ces compétences en tant que Data Analyst.
