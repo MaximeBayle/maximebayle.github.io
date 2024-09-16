@@ -1,6 +1,7 @@
 # Data Analyst Junior
 ## Contacts:
-mail: pro.maxime.bayle@gmail.com
+pro.maxime.bayle@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/maxime-bayle/)
 
 ### Compétences techniques: Python, SQL, VBA, Power BI
