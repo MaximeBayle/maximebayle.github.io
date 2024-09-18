@@ -34,6 +34,7 @@ Ainsi, je suis actuellement à la recherche d'opportunités pour mettre en œuvr
 ## Projets:
 
 ### Gestion de projet transverse et automatisation de données _@Groupe Atlantique_ (_Avr. 2023 - Août. 2023_)
+*Scripts confidentiels*
 - *Gestion de projet*: Formalisation des processus, identifications des limites, collecte des attentes des parties prenantes, suivi et conduite de projet jusqu'à son achèvement
   
 #### Partie 1: Automatisation de données
