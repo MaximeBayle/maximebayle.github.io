@@ -56,7 +56,7 @@ Ainsi, je suis actuellement à la recherche d'opportunités pour mettre en œuvr
 ### IMDb Top 1000 Analyse
 [accès au repository](https://github.com/MaximeBayle/imdb-movie-analysis)
 
-![Movies image]([https://tse2.mm.bing.net/th?id=OIP.E9wwaTLPszbV41GT1mlC0QHaDn&pid=Api&P=0&h=180](https://w.wallhaven.cc/full/42/wallhaven-42roy9.jpg))
+![Movies image](/assets/img/profil_git.png/wallhaven-42roy9.jpg)
 
 Ce projet explore et analyse le top 1000 des films répertoriés sur IMDb
 - *Chargement et exploration des données*: à partir d'un fichier .csv
